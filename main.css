@@ -3,6 +3,17 @@
     height: 400px;
 }
 
+#site-title a {
+    font-size: 28px;
+    color: black;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+
+#site-title a:hover {
+    color: orange;
+}
+
 #about-site {
     color: grey;
 }
